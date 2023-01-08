@@ -1,0 +1,362 @@
+[21:09:49] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[21:09:49] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[21:09:49] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[21:09:49] [main/INFO]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[21:09:49] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_51, running on Windows 10:amd64:10.0, installed at C:\Users\cmnd_\AppData\Roaming\.minecraft\runtime\jre-legacy\windows\jre-legacy
+[21:09:49] [main/INFO]: Searching C:\Users\cmnd_\AppData\Roaming\.minecraft\mods for mods
+[21:09:49] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in backpacks+1.12.2+-+3.5.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[21:09:49] [main/WARN]: The coremod BCModPlugin (brad16840.core.BCModPlugin) is not signed!
+[21:09:49] [main/INFO]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine_1.12.2_HD_U_G5.jar
+[21:09:49] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in Paraglider-1.12.2-1.0.1.5.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[21:09:49] [main/WARN]: The coremod ParagliderLoadingPlugin (com.tictim.paraglider.asm.ParagliderLoadingPlugin) is not signed!
+[21:09:49] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in tlskincape_1.12.2-1.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[21:09:49] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[21:09:49] [main/INFO]: Loading tweak class name optifine.OptiFineForgeTweaker
+[21:09:49] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[21:09:49] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[21:09:49] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[21:09:49] [main/INFO]: Calling tweak class optifine.OptiFineForgeTweaker
+[21:09:49] [main/INFO]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
+[21:09:49] [main/INFO]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: injectIntoClassLoader
+[21:09:49] [main/INFO]: [optifine.OptiFineClassTransformer:dbg:242]: OptiFine ClassTransformer
+[21:09:49] [main/INFO]: [optifine.OptiFineClassTransformer:dbg:242]: OptiFine ZIP file: C:\Users\cmnd_\AppData\Roaming\.minecraft\mods\OptiFine_1.12.2_HD_U_G5.jar
+[21:09:49] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[21:09:52] [main/INFO]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[21:09:52] [main/INFO]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[21:09:52] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[21:09:52] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[21:09:52] [main/INFO]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Parsing hooks container gloomyfolken.hooklib.minecraft.SecondaryTransformerHook
+[21:09:52] [main/INFO]: [HOOKLIB]  Obfuscated: true
+[21:09:52] [main/INFO]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Parsing hooks container org.tlauncher.skin.cape.asm.TLSkinCapeHooks
+[21:09:52] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[21:09:52] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[21:09:52] [main/INFO]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.minecraftforge.fml.common.Loader
+[21:09:52] [main/INFO]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.minecraftforge.fml.common.Loader#injectData([Ljava/lang/Object;)
+[21:09:52] [main/INFO]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Methods dictionary loaded in 6 ms
+[21:09:52] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[21:09:52] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[21:09:52] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[21:09:52] [main/INFO]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
+[21:09:52] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[21:09:53] [main/INFO]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.minecraft.entity.player.EntityPlayer
+[21:09:53] [main/INFO]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.minecraft.entity.player.EntityPlayer#isWearing(Lnet/minecraft/entity/player/EnumPlayerModelParts;)
+[21:09:53] [main/INFO]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Injecting hooks into class net.minecraft.client.entity.AbstractClientPlayer
+[21:09:53] [main/INFO]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.minecraft.client.entity.AbstractClientPlayer#getLocationSkin()Lnet/minecraft/util/ResourceLocation;
+[21:09:53] [main/INFO]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.minecraft.client.entity.AbstractClientPlayer#getLocationCape()Lnet/minecraft/util/ResourceLocation;
+[21:09:53] [main/INFO]: [gloomyfolken.hooklib.asm.HookLogger$SystemOutLogger:debug:20]: [DEBUG] Patching method net.minecraft.client.entity.AbstractClientPlayer#getSkinType()
+[21:09:53] [main/INFO]: [brad16840.core.ClassTransformer:patchGuiContainer:142]: Backpacks! has patched GuiInventory to prevent GuiRecipeBook.slotClicked firing after opening a backpack
+[21:09:53] [main/INFO]: [brad16840.core.ClassTransformer:patchGuiContainer:149]: Backpacks! has patched GuiContainer to allow its backpacks to be opened from vanilla guis
+[21:09:53] [Client thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[21:09:53] [Client thread/INFO]: Setting user: fabs
+[21:09:58] [Client thread/INFO]: [OptiFine] *** Reflector Forge ***
+[21:09:58] [Client thread/INFO]: [OptiFine] *** Reflector Vanilla ***
+[21:09:58] [Client thread/WARN]: Skipping bad option: lastServer:
+[21:09:58] [Client thread/INFO]: LWJGL Version: 2.9.4
+[21:09:58] [Client thread/INFO]: [OptiFine] 
+[21:09:58] [Client thread/INFO]: [OptiFine] OptiFine_1.12.2_HD_U_G5
+[21:09:58] [Client thread/INFO]: [OptiFine] Build: 20210124-142939
+[21:09:58] [Client thread/INFO]: [OptiFine] OS: Windows 10 (amd64) version 10.0
+[21:09:58] [Client thread/INFO]: [OptiFine] Java: 1.8.0_51, Oracle Corporation
+[21:09:58] [Client thread/INFO]: [OptiFine] VM: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+[21:09:58] [Client thread/INFO]: [OptiFine] LWJGL: 2.9.4
+[21:09:58] [Client thread/INFO]: [OptiFine] OpenGL: Intel(R) Iris(R) Plus Graphics 655, version 4.6.0 - Build 27.20.100.9365, Intel
+[21:09:58] [Client thread/INFO]: [OptiFine] OpenGL Version: 4.6.0
+[21:09:58] [Client thread/INFO]: [OptiFine] OpenGL Fancy fog: Not available (GL_NV_fog_distance)
+[21:09:58] [Client thread/INFO]: [OptiFine] Maximum texture size: 16384x16384
+[21:09:58] [VersionCheck/INFO]: [OptiFine] Checking for new version
+[21:09:58] [Client thread/INFO]: [Shaders] OpenGL Version: 4.6.0 - Build 27.20.100.9365
+[21:09:58] [Client thread/INFO]: [Shaders] Vendor:  Intel
+[21:09:58] [Client thread/INFO]: [Shaders] Renderer: Intel(R) Iris(R) Plus Graphics 655
+[21:09:58] [Client thread/INFO]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  4.0 
+[21:09:58] [Client thread/INFO]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
+[21:09:58] [Client thread/INFO]: [Shaders] GL_MAX_COLOR_ATTACHMENTS_EXT: 8
+[21:09:58] [Client thread/INFO]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 32
+[21:09:58] [Client thread/INFO]: [Shaders] Load shaders configuration.
+[21:09:58] [Client thread/INFO]: [Shaders] Save shaders configuration.
+[21:09:58] [Client thread/INFO]: [Shaders] No shaderpack loaded.
+[21:09:58] [Client thread/INFO]: [OptiFine] [Shaders] Delayed loading of block mappings after resources are loaded
+[21:09:58] [Client thread/INFO]: [OptiFine] [Shaders] Delayed loading of item mappings after resources are loaded
+[21:09:58] [Client thread/INFO]: [OptiFine] [Shaders] Delayed loading of entity mappings after resources are loaded
+[21:09:59] [VersionCheck/INFO]: [OptiFine] Version found: G5
+[21:09:59] [Client thread/INFO]: Forge Mod Loader has detected optifine OptiFine_1.12.2_HD_U_G5, enabling compatibility features
+[21:09:59] [Client thread/INFO]: -- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_51, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 728829648 bytes (695 MB) / 939524096 bytes (896 MB) up to 3154116608 bytes (3008 MB)
+	JVM Flags: 7 total; -Xmx3000M -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+BCModPlugin (backpacks+1.12.2+-+3.5.12.jar)
+  brad16840.core.ClassTransformer
+ParagliderLoadingPlugin (Paraglider-1.12.2-1.0.1.5.jar)
+  com.tictim.paraglider.asm.TransformerModelBiped
+TLSkinCapeHookLoader (tlskincape_1.12.2-1.4.jar)
+  gloomyfolken.hooklib.minecraft.PrimaryClassTransformer
+	GL info: ' Vendor: 'Intel' Version: '4.6.0 - Build 27.20.100.9365' Renderer: 'Intel(R) Iris(R) Plus Graphics 655'
+[21:09:59] [Client thread/INFO]: MinecraftForge v14.23.5.2860 Initialized
+[21:09:59] [Client thread/INFO]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[21:09:59] [Client thread/INFO]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[21:09:59] [Client thread/INFO]: Replaced 1227 ore ingredients
+[21:10:00] [Client thread/INFO]: Searching C:\Users\cmnd_\AppData\Roaming\.minecraft\mods for mods
+[21:10:02] [Thread-3/INFO]: Using sync timing. 200 frames of Display.update took 70319800 nanos
+[21:10:02] [Client thread/INFO]: Forge Mod Loader has identified 21 mods to load
+[21:10:03] [Client thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge, backpacks16840, baubles, bloodmagic, botania, guideapi, jei, jjmeteor, journeymap, mantle, mcwdoors, mcwwindows, paraglider, realsurvivor, tconstruct, tinker_io, tlauncher_custom_cape_skin, useless_sword] at CLIENT
+[21:10:03] [Client thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge, backpacks16840, baubles, bloodmagic, botania, guideapi, jei, jjmeteor, journeymap, mantle, mcwdoors, mcwwindows, paraglider, realsurvivor, tconstruct, tinker_io, tlauncher_custom_cape_skin, useless_sword] at SERVER
+[21:10:05] [Client thread/WARN]: Patcher expecting empty class data file for net.minecraft.block.state.BlockStateContainer$Builder, but received non-empty
+[21:10:05] [Client thread/INFO]: Skipping Pulse chiselIntegration; missing dependency: chisel
+[21:10:05] [Client thread/INFO]: Skipping Pulse chiselsandbitsIntegration; missing dependency: chiselsandbits
+[21:10:05] [Client thread/INFO]: Skipping Pulse craftingtweaksIntegration; missing dependency: craftingtweaks
+[21:10:05] [Client thread/INFO]: Skipping Pulse wailaIntegration; missing dependency: waila
+[21:10:05] [Client thread/INFO]: Skipping Pulse theoneprobeIntegration; missing dependency: theoneprobe
+[21:10:05] [Client thread/INFO]: Skipping Pulse quarkIntegration; missing dependency: quark
+[21:10:05] [Client thread/INFO]: Preparing to take over the world
+[21:10:06] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Backpacks!, FMLFileResourcePack:Baubles, FMLFileResourcePack:Blood Magic: Alchemical Wizardry, FMLFileResourcePack:Botania, FMLFileResourcePack:Guide-API, FMLFileResourcePack:Just Enough Items, FMLFileResourcePack:JJ Meteor, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:Mantle, FMLFileResourcePack:Macaw's Doors, FMLFileResourcePack:Macaw's Windows, FMLFileResourcePack:Paraglider, FMLFileResourcePack:Real Survivor, FMLFileResourcePack:Tinkers' Construct, FMLFileResourcePack:Tinker I/O, FMLFileResourcePack:TLSkinCape, FMLFileResourcePack:Useless Sword
+[21:10:06] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: OnerGamer in C:\Users\cmnd_\AppData\Roaming\.minecraft\mods\real-survivor-1.1.5.jar
+[21:10:06] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: OnerGamer in C:\Users\cmnd_\AppData\Roaming\.minecraft\mods\real-survivor-1.1.5.jar
+[21:10:06] [Client thread/INFO]: Processing ObjectHolder annotations
+[21:10:06] [Client thread/INFO]: Found 1378 ObjectHolder annotations
+[21:10:06] [Client thread/INFO]: Identifying ItemStackHolder annotations
+[21:10:06] [Client thread/INFO]: Found 0 ItemStackHolder annotations
+[21:10:06] [Client thread/INFO]: Configured a dormant chunk cache size of 0
+[21:10:06] [Forge Version Check/INFO]: [jjmeteor] Starting version check at https://raw.githubusercontent.com/JdiJack/JJ-Meteor/master/update.json
+[21:10:06] [Client thread/INFO]: OBJLoader: Domain bloodmagic has been added.
+[21:10:08] [Client thread/INFO]: No plugins for JourneyMap API discovered.
+[21:10:08] [Client thread/INFO]: OBJLoader: Domain useless_sword has been added.
+[21:10:09] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.table`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[21:10:09] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.craftingstation`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[21:10:09] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.stenciltable`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[21:10:09] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.partbuilder`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[21:10:09] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.patternchest`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[21:10:09] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.partchest`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[21:10:09] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.toolstation`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[21:10:09] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.toolforge`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[21:10:09] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.smeltery_controller`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[21:10:09] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.smeltery_component`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[21:10:09] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.tank`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[21:10:09] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.faucet`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[21:10:09] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.channel`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[21:10:09] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.casting_table`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[21:10:09] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.casting_basin`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[21:10:09] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.smeltery_drain`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[21:10:09] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.seared_furnace`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[21:10:09] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.tinker_tank`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[21:10:10] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.item_rack`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[21:10:10] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.drying_rack`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[21:10:10] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.wooden_hopper`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[21:10:10] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.slime_channel`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[21:10:10] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `backpack_block`, expected `backpacks16840`. This could be a intended override, but in most cases indicates a broken mod.
+[21:10:10] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `quantumchest`, expected `backpacks16840`. This could be a intended override, but in most cases indicates a broken mod.
+[21:10:10] [Client thread/INFO]: Applying holder lookups
+[21:10:10] [Client thread/INFO]: Holder lookups applied
+[21:10:11] [Client thread/INFO]: Applying holder lookups
+[21:10:11] [Client thread/INFO]: Holder lookups applied
+[21:10:11] [Client thread/INFO]: Applying holder lookups
+[21:10:11] [Client thread/INFO]: Holder lookups applied
+[21:10:11] [Client thread/INFO]: OBJLoader: Domain botania has been added.
+[21:10:11] [Client thread/INFO]: Applying holder lookups
+[21:10:11] [Client thread/INFO]: Holder lookups applied
+[21:10:11] [Client thread/INFO]: Injecting itemstacks
+[21:10:11] [Client thread/INFO]: Itemstack injection complete
+[21:10:11] [Client thread/INFO]: [OptiFine] *** Reloading textures ***
+[21:10:11] [Client thread/INFO]: [OptiFine] Resource packs: Default
+[21:10:12] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[21:10:12] [Thread-5/INFO]: Initializing LWJGL OpenAL
+[21:10:12] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[21:10:12] [Thread-5/INFO]: OpenAL initialized.
+[21:10:13] [Sound Library Loader/INFO]: Sound engine started
+[21:10:15] [Forge Version Check/INFO]: [jjmeteor] Found status: UP_TO_DATE Target: null
+[21:10:15] [Forge Version Check/INFO]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[21:10:16] [Client thread/ERROR]: Could not load multimodel tconstruct:tools/arrow.tcon#inventory
+[21:10:16] [Client thread/ERROR]: Could not load material model tconstruct:parts/arrow_head.tmat#inventory
+[21:10:16] [Client thread/ERROR]: Could not load material model tconstruct:parts/arrow_shaft.tmat#inventory
+[21:10:16] [Client thread/ERROR]: Could not load material model tconstruct:parts/axe_head.tmat#inventory
+[21:10:16] [Client thread/ERROR]: Could not load multimodel tconstruct:tools/battlesign.tcon#inventory
+[21:10:16] [Client thread/ERROR]: Could not load material model tconstruct:parts/binding.tmat#inventory
+[21:10:16] [Client thread/ERROR]: Could not load multimodel tconstruct:tools/bolt.tcon#inventory
+[21:10:16] [Client thread/ERROR]: Could not load multimodel tconstruct:parts/bolt_core.tcon#inventory
+[21:10:16] [Client thread/ERROR]: Could not load material model tconstruct:parts/bow_limb.tmat#inventory
+[21:10:16] [Client thread/ERROR]: Could not load material model tconstruct:parts/bow_string.tmat#inventory
+[21:10:16] [Client thread/ERROR]: Could not load material model tconstruct:parts/broad_axe_head.tmat#inventory
+[21:10:16] [Client thread/ERROR]: Could not load multimodel tconstruct:tools/broadsword.tcon#inventory
+[21:10:16] [Client thread/ERROR]: Could not load multimodel tconstruct:tools/cleaver.tcon#inventory
+[21:10:16] [Client thread/ERROR]: Could not load material model tconstruct:parts/cross_guard.tmat#inventory
+[21:10:16] [Client thread/ERROR]: Could not load multimodel tconstruct:tools/crossbow.tcon#inventory
+[21:10:16] [Client thread/ERROR]: Could not load multimodel tconstruct:tools/excavator.tcon#inventory
+[21:10:16] [Client thread/ERROR]: Could not load material model tconstruct:parts/excavator_head.tmat#inventory
+[21:10:16] [Client thread/ERROR]: Could not load material model tconstruct:parts/fletching.tmat#inventory
+[21:10:16] [Client thread/ERROR]: Could not load multimodel tconstruct:tools/frypan.tcon#inventory
+[21:10:16] [Client thread/ERROR]: Could not load multimodel tconstruct:tools/hammer.tcon#inventory
+[21:10:16] [Client thread/ERROR]: Could not load material model tconstruct:parts/hammer_head.tmat#inventory
+[21:10:16] [Client thread/ERROR]: Could not load material model tconstruct:parts/hand_guard.tmat#inventory
+[21:10:16] [Client thread/ERROR]: Could not load multimodel tconstruct:tools/hatchet.tcon#inventory
+[21:10:16] [Client thread/ERROR]: Could not load multimodel tconstruct:tools/kama.tcon#inventory
+[21:10:16] [Client thread/ERROR]: Could not load material model tconstruct:parts/kama_head.tmat#inventory
+[21:10:16] [Client thread/ERROR]: Could not load material model tconstruct:parts/knife_blade.tmat#inventory
+[21:10:16] [Client thread/ERROR]: Could not load material model tconstruct:parts/large_plate.tmat#inventory
+[21:10:16] [Client thread/ERROR]: Could not load material model tconstruct:parts/large_sword_blade.tmat#inventory
+[21:10:16] [Client thread/ERROR]: Could not load multimodel tconstruct:tools/longbow.tcon#inventory
+[21:10:16] [Client thread/ERROR]: Could not load multimodel tconstruct:tools/longsword.tcon#inventory
+[21:10:16] [Client thread/ERROR]: Could not load multimodel tconstruct:tools/lumberaxe.tcon#inventory
+[21:10:16] [Client thread/ERROR]: Could not load multimodel tconstruct:tools/mattock.tcon#inventory
+[21:10:16] [Client thread/ERROR]: Could not load multimodel tconstruct:moms_spaghetti.tcon#inventory
+[21:10:16] [Client thread/ERROR]: Could not load material model tconstruct:parts/pan_head.tmat#inventory
+[21:10:16] [Client thread/ERROR]: Could not load material model tconstruct:parts/pick_head.tmat#inventory
+[21:10:16] [Client thread/ERROR]: Could not load multimodel tconstruct:tools/pickaxe.tcon#inventory
+[21:10:16] [Client thread/ERROR]: Could not load multimodel tconstruct:tools/rapier.tcon#inventory
+[21:10:16] [Client thread/ERROR]: Could not load multimodel tconstruct:tools/scythe.tcon#inventory
+[21:10:16] [Client thread/ERROR]: Could not load material model tconstruct:parts/scythe_head.tmat#inventory
+[21:10:16] [Client thread/ERROR]: Could not load material model tconstruct:parts/shard.tmat#inventory
+[21:10:16] [Client thread/ERROR]: Could not load material model tconstruct:parts/sharpening_kit.tmat#inventory
+[21:10:16] [Client thread/ERROR]: Could not load multimodel tconstruct:tools/shortbow.tcon#inventory
+[21:10:16] [Client thread/ERROR]: Could not load multimodel tconstruct:tools/shovel.tcon#inventory
+[21:10:16] [Client thread/ERROR]: Could not load material model tconstruct:parts/shovel_head.tmat#inventory
+[21:10:16] [Client thread/ERROR]: Could not load multimodel tconstruct:tools/shuriken.tcon#inventory
+[21:10:16] [Client thread/ERROR]: Could not load material model tconstruct:parts/sign_head.tmat#inventory
+[21:10:16] [Client thread/ERROR]: Could not load material model tconstruct:parts/sword_blade.tmat#inventory
+[21:10:16] [Client thread/ERROR]: Could not load material model tconstruct:parts/tool_rod.tmat#inventory
+[21:10:16] [Client thread/ERROR]: Could not load material model tconstruct:parts/tough_binding.tmat#inventory
+[21:10:16] [Client thread/ERROR]: Could not load material model tconstruct:parts/tough_tool_rod.tmat#inventory
+[21:10:16] [Client thread/ERROR]: Could not load material model tconstruct:parts/wide_guard.tmat#inventory
+[21:10:17] [Client thread/INFO]: [OptiFine] Mipmap levels: 4
+[21:10:17] [Client thread/INFO]: [OptiFine] Multitexture: false
+[21:10:17] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/0_glass_white/glass_pane_white.properties
+[21:10:17] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/0_glass_white/glass_white.properties
+[21:10:17] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/10_glass_purple/glass_pane_purple.properties
+[21:10:17] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/10_glass_purple/glass_purple.properties
+[21:10:17] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/11_glass_blue/glass_blue.properties
+[21:10:17] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/11_glass_blue/glass_pane_blue.properties
+[21:10:17] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/12_glass_brown/glass_brown.properties
+[21:10:17] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/12_glass_brown/glass_pane_brown.properties
+[21:10:17] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/13_glass_green/glass_green.properties
+[21:10:17] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/13_glass_green/glass_pane_green.properties
+[21:10:17] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/14_glass_red/glass_pane_red.properties
+[21:10:17] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/14_glass_red/glass_red.properties
+[21:10:17] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/15_glass_black/glass_black.properties
+[21:10:17] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/15_glass_black/glass_pane_black.properties
+[21:10:17] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/1_glass_orange/glass_orange.properties
+[21:10:17] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/1_glass_orange/glass_pane_orange.properties
+[21:10:17] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/2_glass_magenta/glass_magenta.properties
+[21:10:17] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/2_glass_magenta/glass_pane_magenta.properties
+[21:10:17] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/3_glass_light_blue/glass_light_blue.properties
+[21:10:17] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/3_glass_light_blue/glass_pane_light_blue.properties
+[21:10:17] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/4_glass_yellow/glass_pane_yellow.properties
+[21:10:17] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/4_glass_yellow/glass_yellow.properties
+[21:10:17] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/5_glass_lime/glass_lime.properties
+[21:10:17] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/5_glass_lime/glass_pane_lime.properties
+[21:10:17] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/6_glass_pink/glass_pane_pink.properties
+[21:10:17] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/6_glass_pink/glass_pink.properties
+[21:10:17] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/7_glass_gray/glass_gray.properties
+[21:10:17] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/7_glass_gray/glass_pane_gray.properties
+[21:10:17] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/8_glass_silver/glass_pane_silver.properties
+[21:10:17] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/8_glass_silver/glass_silver.properties
+[21:10:17] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/9_glass_cyan/glass_cyan.properties
+[21:10:17] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/9_glass_cyan/glass_pane_cyan.properties
+[21:10:17] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/bookshelf.properties
+[21:10:17] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/glass.properties
+[21:10:17] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/glasspane.properties
+[21:10:17] [Client thread/INFO]: [OptiFine] ConnectedTextures: mcpatcher/ctm/default/sandstone.properties
+[21:10:17] [Client thread/INFO]: [OptiFine] Multipass connected textures: false
+[21:10:17] [Client thread/INFO]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+[21:10:17] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/models/pillar_base_d.png, java.io.FileNotFoundException
+[21:10:18] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/node.png, java.io.FileNotFoundException
+[21:10:19] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/crystal.png, java.io.FileNotFoundException
+[21:10:20] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/models/pillar_mid_d.png, java.io.FileNotFoundException
+[21:10:20] [Client thread/INFO]: [OptiFine] Custom loader sprites: 2125
+[21:10:20] [Client thread/INFO]: [OptiFine] Sprite dependencies: 2864
+[21:10:20] [Client thread/INFO]: Created: 2048x1024 textures-atlas
+[21:10:36] [Client thread/INFO]: [OptiFine] Animated sprites: 79
+[21:10:37] [Client thread/ERROR]: MultiModel minecraft:builtin/missing is empty (no base model or parts were provided/resolved)
+[21:10:40] [Client thread/INFO]: [com.tictim.paraglider.Contents:getParagliderSkinRecipes:84]: net.minecraftforge.oredict.ShapelessOreRecipe@78913b99
+[21:10:40] [Client thread/INFO]: [com.tictim.paraglider.Contents:getParagliderSkinRecipes:84]: net.minecraftforge.oredict.ShapelessOreRecipe@6a4ab20
+[21:10:40] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `slime`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[21:10:40] [Client thread/INFO]: Applying holder lookups
+[21:10:40] [Client thread/INFO]: Holder lookups applied
+[21:10:41] [Client thread/INFO]: Created: 128x256 textures-atlas
+[21:10:41] [Client thread/INFO]: JourneyMap log initialized.
+[21:10:41] [Client thread/INFO]: initialize ENTER
+[21:10:41] [Client thread/WARN]: core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[21:10:41] [Client thread/WARN]: core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[21:10:41] [Client thread/INFO]: [ClientAPI] built with JourneyMap API 1.4
+[21:10:41] [Client thread/INFO]: Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[21:10:41] [Client thread/INFO]: initialize EXIT, elapsed count 0 avg ?ms
+[21:10:41] [Client thread/INFO]: Ignored smelting recipe with conflicting input: 1xitem.swordIron@0 = 1xitem.moltenironsword@0
+[21:10:41] [Client thread/INFO]: Injecting itemstacks
+[21:10:41] [Client thread/INFO]: Itemstack injection complete
+[21:10:42] [Client thread/INFO]: The Lexica Botania has 25816 words.
+[21:10:42] [Client thread/INFO]: Added entity icons from journeymap:icon/entity. Success: false
+[21:10:43] [Client thread/INFO]: Preloaded theme textures: 73
+[21:10:43] [Client thread/INFO]: Started adding oredict melting recipes
+[21:10:44] [Client thread/INFO]: Oredict melting recipes finished in 492.4484 ms
+[21:10:44] [JM-VersionCheck-1/INFO]: Newer version online: JourneyMap 5.7.1.jar for Minecraft 1.12.2 on http://minecraft.curseforge.com/projects/journeymap/files/2916002
+[21:10:44] [Client thread/INFO]: Starting JEI...
+[21:10:44] [Client thread/INFO]: Registering recipe categories...
+[21:10:44] [Client thread/INFO]: Registering recipe categories took 44.96 ms
+[21:10:44] [Client thread/INFO]: Registering mod plugins...
+[21:10:44] [Client thread/INFO]: Registering mod plugins took 314.5 ms
+[21:10:44] [Client thread/INFO]: Building recipe registry...
+[21:10:45] [Client thread/INFO]: Building recipe registry took 141.6 ms
+[21:10:45] [Client thread/INFO]: Building ingredient list...
+[21:10:45] [Client thread/INFO]: Building ingredient list took 53.75 ms
+[21:10:45] [Client thread/INFO]: Building ingredient filter...
+[21:10:45] [Client thread/INFO]: Building ingredient filter took 535.3 ms
+[21:10:45] [Client thread/INFO]: Building bookmarks...
+[21:10:45] [Client thread/INFO]: Building bookmarks took 8.185 ms
+[21:10:45] [Client thread/INFO]: Building runtime...
+[21:10:45] [Client thread/INFO]: Building runtime took 70.29 ms
+[21:10:45] [Client thread/INFO]: Optimizing memory usage...
+[21:10:45] [Client thread/INFO]: Optimizing memory usage took 80.57 ms
+[21:10:45] [Client thread/INFO]: Starting JEI took 1.496 s
+[21:10:46] [Client thread/INFO]: Forge Mod Loader has successfully loaded 21 mods
+[21:10:46] [Client thread/WARN]: Skipping bad option: lastServer:
+[21:10:46] [Client thread/INFO]: Narrator library for x64 successfully loaded
+[21:10:47] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: mods.betterfoliage.client.BetterFoliageClient
+[21:10:47] [Client thread/INFO]: [OptiFine] *** Reloading custom textures ***
+[21:10:47] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[21:10:53] [Client thread/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[21:10:54] [Server thread/INFO]: Starting integrated minecraft server version 1.12.2
+[21:10:54] [Server thread/INFO]: Generating keypair
+[21:10:54] [Server thread/INFO]: Injecting existing registry data into this server instance
+[21:10:54] [Server thread/INFO]: Applying holder lookups
+[21:10:54] [Server thread/INFO]: Holder lookups applied
+[21:10:54] [Server thread/INFO]: Loading dimension 0 (Mundo nuevo) (net.minecraft.server.integrated.IntegratedServer@41a8a9a)
+[21:10:55] [Server thread/INFO]: Loaded 537 advancements
+[21:10:55] [Server thread/INFO]: Loading dimension -1 (Mundo nuevo) (net.minecraft.server.integrated.IntegratedServer@41a8a9a)
+[21:10:55] [Server thread/INFO]: Loading dimension 1 (Mundo nuevo) (net.minecraft.server.integrated.IntegratedServer@41a8a9a)
+[21:10:55] [Server thread/INFO]: Preparing start region for level 0
+[21:10:56] [Server thread/INFO]: Preparing spawn area: 45%
+[21:10:57] [Server thread/INFO]: Unloading dimension -1
+[21:10:57] [Server thread/INFO]: Unloading dimension 1
+[21:10:57] [Server thread/INFO]: Changing view distance to 9, from 10
+[21:10:58] [Netty Local Client IO #0/INFO]: Server protocol version 2
+[21:10:58] [Netty Server IO #1/INFO]: Client protocol version 2
+[21:10:58] [Netty Server IO #1/INFO]: Client attempting to join with 21 mods : minecraft@1.12.2,tconstruct@1.12.2-2.13.0.183,tinker_io@rw2.8.3,backpacks16840@3.5.12,FML@8.0.99.99,baubles@1.5.2,mcwdoors@1.3,jei@4.16.1.301,tlauncher_custom_cape_skin@1.4,guideapi@1.12-2.1.8-63,botania@r1.10-364,mcwwindows@1.0,paraglider@1.0.1.5,realsurvivor@1.0.5,forge@14.23.5.2860,bloodmagic@1.12.2-2.4.3-105,mantle@1.12-1.3.3.55,jjmeteor@1.0.10,mcp@9.42,journeymap@1.12.2-5.7.0,useless_sword@1.0.9
+[21:10:58] [Netty Local Client IO #0/INFO]: [Netty Local Client IO #0] Client side modded connection established
+[21:10:58] [Server thread/INFO]: [Server thread] Server side modded connection established
+[21:10:58] [Server thread/INFO]: fabs[local:E:2951328e] logged in with entity id 295 at (-116.24351344210824, 81.90543213923442, 360.78581358001156)
+[21:10:58] [Server thread/INFO]: fabs se ha unido a la partida
+[21:11:00] [Server thread/INFO]: Saving and pausing game...
+[21:11:00] [Server thread/INFO]: Saving chunks for level 'Mundo nuevo'/overworld
+[21:11:00] [Client thread/INFO]: textures fabs was added, skin: true,cape: false, max waiting: 6 ,during : 16302 
+[21:11:00] [Client thread/INFO]: Loaded 15 advancements
+[21:11:01] [Client thread/WARN]: core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[21:11:01] [Client thread/WARN]: core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[21:11:01] [Client thread/INFO]: Loaded 0 waypoints from C:\Users\cmnd_\AppData\Roaming\.minecraft\journeymap\data\sp\Mundo nuevo~\waypoints
+[21:11:01] [Client thread/INFO]: Mapping started in C:\Users\cmnd_\AppData\Roaming\.minecraft\journeymap\data\sp\Mundo nuevo~\DIM0. Memory: 2048MB total, 1051MB free 
+[21:11:01] [Client thread/INFO]: [CHAT] §eJourneyMap:§f Presione [§bJ§f]
+[21:11:01] [Client thread/INFO]: JourneyMap: Presione [J]
+[21:11:02] [Client thread/WARN]: Received passengers for unknown entity
+[21:17:11] [Client thread/INFO]: Stopping!
+[21:17:11] [Client thread/INFO]: Mapping halted in C:\Users\cmnd_\AppData\Roaming\.minecraft\journeymap\data\sp\Mundo nuevo~\DIM0
+[21:17:11] [Server thread/INFO]: Stopping server
+[21:17:11] [Server thread/INFO]: Saving players
+[21:17:11] [Server thread/INFO]: Saving worlds
+[21:17:11] [Server thread/INFO]: Saving chunks for level 'Mundo nuevo'/overworld
+[21:17:12] [Server thread/INFO]: Unloading dimension 0
+[21:17:13] [Server thread/INFO]: Applying holder lookups
+[21:17:13] [Server thread/INFO]: Holder lookups applied
+[21:17:13] [Client thread/INFO]: SoundSystem shutting down...
+[21:17:13] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
